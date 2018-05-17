@@ -1,0 +1,158 @@
+opa
+
+http://localhost/mnsalisa/wp-admin/index.php
+
+Usuario: andersonparraluiz
+Senha: @1anderson
+
+http://localhost/mnsalisa/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fmnsalisa%2Fwp-admin%2Findex.php&reauth=1
+
+ERA PROBLEMA NO TEMA
+VAI TER QUE ESTAR FAZENDO ELE DE NOVO
+jorge da pra editar depois que subir pro provedor?
+
+até da, so é um pouco mais lento por depender da internet
+entendi
+mas da sim
+
+vou te ensinar a exportar os esquemas
+melhor eu fazer o tema online mesmo, acho menos trampo rss
+
+localhost e mais rapido
+rdepois que tiver terminado so sobe uma vez
+ai vai editando por la depois
+
+
+bd alvit350_mnsalisa
+user alvit350_mnalisa
+senha: MT.-m=o=[qPm
+
+
+So esperar terminar de passar os arquivos aqui pela ftp
+Ta dando esse erro porque ainda ta passando, jaja funciona
+blza, entao quando tiver o dominio só exportar pro provedor
+
+Ai vc tem que comprar o dominio
+Comprar a hospedagem e fazer isso ai que eu fiz
+Exportei do local pra web
+
+ai quando tiver o dominio fica automatico vc só aponta o dns
+é facil de fazer
+2 clicks
+
+ah sim como ja ta na web so apontar esse dns
+maravilha 
+
+nao pra esse porque esse e o meu
+tem que comprar uma hospedagem
+ai passar pra ela
+isso
+o fernando vai comprar
+mano vlw
+nem sei como vou agradescer a ajuda
+
+falta 259 arquivos
+jaja ele sobe
+	ai vai cosnsiemgu isro  aceassgeuarda
+aumia s meia hora por ai nem 10 minutos
+já ta em 220 aruqivos
+
+mas pegou o esquema?
+pela hostgator e bem mais rapido e facil
+hostinger não presta
+vdd Jorge eu consegui dominio nesse aki o
+
+tem que por o usauruio não o email
+
+parece ser bom, tem suporte local pelo menos kk e telefone
+é hospedagem? os 2 
+hgorsaptu tei omi
+nio
+gratuito? por 30 dias sim, depois paga 
+ele usa o mesmo que a hostgator cpnal
+porsi ismso é parecido
+se quiser colocar as coisas lá ja sabe, não e muito dificil
+
+mas recomendo se for pra pagar pegar a hostagor
+é a melhor no brasil pra hospegadem de v
+
+
+ta ai rodando pelo servidor
+se quiser já colocar no seu
+ai vou te auxiliando pelo whatsapp
+
+vou fechar aqui
+fingir que to trabalhando hahaha
+blz hahaha
+cara nao qro te atrapalhar nao
+
+
+quer que eu coloque na sua ?
+manda ae
+
+
+vc comprou esse dominio?
+nao eles que criaram assim
+
+acho que só libera depois que paga em
+
+en
+tra no 
+
+entra no chat com eles e pergunta
+fala que seu dominio não está funcionando
+blza vo falar
+Korge e la no outro eu vou ter que fazer o site dinovo|
+
+? oreu soellvee vai 
+ap
+arece
+r depois que subir tudo?
+
+então, resolve com eles ai primeiro
+se voce for ficar com essa hospedagem
+ve aonde vai ficar
+por isso era bom voce fazer local antes
+que ai vc sobe uma vez
+
+ve com eles o que resolve
+o ruim é fazer ai
+e depois vc não quiser
+e eles travarem seus arquivos
+ai é foda
+
+mas ve com eles primeiro que depois a gente ve o que faz
+mas da pra ir trabalhando no local
+acho que é melhor por enquanto pra voce
+
+ventao o site mesmo  nao vai subir eu vou ter que criar local dinovo e depois subr
+
+ele ja ta na sua maquina local
+se quiser usar o meu que ta na web pode usar
+mas ai vai ter que me falar quando for exportar ele
+que eu exporto pra voce
+blza, mas eu vo deixar no hostgator mesmo mano, pq esse provedor aki eles diponibilizaram so a hospef=dagem ta sem dominio ativo:(
+
+precisa ver agora se vc vai conseguir pegar esse dominio
+
+
+fala com o cliente pra registrar logo
+vc ta fazendo ai 
+ai vai que ele nem quer mais o site
+ai é gastar tempo a toa
+
+se ele quiser já fala pra registrar logo
+se não pode perder
+ele vai ficar com o site sim ele ja aceitou
+
+então fala pra ele comprar o dominio
+e a hospedagem
+
+
+
+
+
+
+bd parrand_mnalisa
+user parrand_mnalisa
+senha: [r*5&aL9&#_~

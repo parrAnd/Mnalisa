@@ -1,0 +1,10 @@
+fernandogoes@mnalisa.com.br
+senha: goes@123
+
+
+claudiodzbik@mnalisa.com.br
+rogerio.borborema@mnalisa.com
+IMAP Port: 993
+POP3 Port: 995
+
+https://br242.hostgator.com.br:2096/cpsess0119108353/webmail/hostgator_latam/index.html?mailclient=horde
